@@ -1,0 +1,3 @@
+{
+	"style": ".info__text__status{display:flex!important;background:linear-gradient(90deg,rgba(50,80,90,.3) 0,rgba(50,80,90,.1) 65%,rgba(50,80,90,0) 100%)!important;border-radius:20px!important;border:4px solid!important;border-color:rgba(255,255,255,.05)!important}.message{margin:10px 2px!important;background:linear-gradient(0deg,rgba(0,0,0,.15) 0,rgba(0,0,0,.08) 64%,rgba(0,0,0,0) 100%)!important;border-radius:20px!important}.message__info__text{width:100%!important;padding:0 0 5px 0!important}.info__text__status__name{margin:5px 10px!important}.message-text{margin-left:-15px!important}.message__img{top:9px!important;left:-2px!important;position:relative!important}"
+}
