@@ -3,5 +3,19 @@
   "versionCode": "1",
   "apkUrl": "https://github.com/ovgamesdev/res/releases/download/V1.1/app-release-V1_1.apk",
   "forceUpdate": false,
-  "whatsNew": "Initial commit"
+  "whatsNew": "Initial commit",
+	"whatsNewOptions": [
+		{
+			"title": "Это первая тест версия",
+			"options": [
+				{ "title": "Здесь ничего нового" },
+				{ "title": "Ну или все новое" },
+				{ "title": "Смотря как смотреть" }
+			]
+		},
+		{
+			"title": "Другое:",
+			"options": [{ "title": "Добавлено что-то новое" }]
+		}
+	]
 }
