@@ -1,6 +1,6 @@
 {
   "versionName": "1.0",
-  "versionCode": "1",
+  "versionCode": 1,
   "apkUrl": "https://github.com/ovgamesdev/res/releases/download/V1.1/app-release-V1_1.apk",
   "forceUpdate": false,
   "whatsNew": "Initial commit",
